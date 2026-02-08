@@ -1,1 +1,1 @@
-# YUQI-General-Existence-Theory
+# General-Existence-Theory
