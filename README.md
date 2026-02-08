@@ -1,1 +1,1 @@
-# YUQI-LambdaSigma-Power-Cognitive-Unified-Field-Theory
+# YUQI-General-Existence-Theory
