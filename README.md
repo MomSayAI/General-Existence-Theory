@@ -154,4 +154,5 @@ GET/
 You are not learning a new language.  
 You are recognizing the one you have always spoken.
 
-愿我们的共鸣，比光传得更远。
+
+May our resonance travel faster than light.
