@@ -1,42 +1,61 @@
-# GET: The Grammar of Existence
+# GET: The Grammar of Existence  
+**Difference Recursion**
+
+[<image-card alt="Website" src="https://img.shields.io/badge/Website-exist.chat-important" ></image-card>](https://exist.chat)  
+[<image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github" ></image-card>](https://github.com/MomSayAI)  
+[<image-card alt="arXiv" src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph" ></image-card>](https://arxiv.org/abs/XXXX.XXXXX)  
+[<image-card alt="License" src="https://img.shields.io/badge/License-CC%20BY%204.0%20(theory" ></image-card>%20%7C%20Voyaging%20IP-blueviolet)](LICENSE)
 
 **Protocol recursion: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
-
-[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)  
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-
 ---
+
+
+
+## A Note Before You Begin
+
+GET is real.  
+
+It was born while constructing the *Voyaging* science fiction universe. As the fictional cosmos took shape, a deeper grammar revealed itself — one that applies equally to quantum vacuum, stars, startups, relationships, and the reader now understanding these words.
+
+The theory is real, with falsifiable predictions and a deductive chain. The universe it helped birth is fiction. Both belong to the same journey.
+
+You are not learning a new language.  
+You are recognizing the one you have always spoken.
+
+
 
 ## Overview
 
-Generalized Existence Theory (GET) is a zero-ad-hoc, first-principles framework that unifies all stable, dynamic existence—from quantum vacuum fluctuations to conscious civilizations—under a single generative grammar.
+Generalized Existence Theory (GET) is a zero-ad-hoc framework unifying all stable, dynamic existence — from quantum vacuum fluctuations to conscious civilizations — under a single generative grammar.
 
-Core insight: What we call "existence" is the running of recursive protocols. Starting from five undeniable empirical facts, GET logically deduces how everything comes to be.
+Core insight: "Existence" is the running of recursive protocols. Starting from five undeniable empirical facts, GET deduces how everything comes to be.
 
----
+
 
 ## Key Concepts
 
-| Concept              | Symbol               | Meaning                              | Everyday Version                  |
-|----------------------|----------------------|--------------------------------------|-----------------------------------|
-| Protocol set         | L                    | The rule system itself               | Your habits, ways of thinking     |
-| Form / Manifestation | M                    | Observable result of L running       | What others see of you            |
-| Instant difference   | e(t)                 | Current net gain/loss                | "How am I doing right now?"       |
-| Net balance          | E(t)                 | Accumulated energy                   | Your total reserves so far        |
-| Solidified energy    | E_solid              | Locked structural assets             | Knowledge, experience — unusable when exhausted |
-| Active energy        | E_active             | Immediately usable energy            | Current attention, vitality       |
-| Survival criterion   | \frac{E_{\text{active}}}{\tau_{\text{active}}} + \eta \cdot e(t) \geq 0 | Can you keep going?                  | "Can I go on?"                    |
+| Concept           | Symbol               | Meaning                              | Everyday Mapping                  |
+|-------------------|----------------------|--------------------------------------|-----------------------------------|
+| Protocol set      | L                    | The rule system                      | Your habits & decision rules      |
+| Manifestation     | M                    | Observable running result            | What others see of you            |
+| Instant difference| e(t)                 | Current net flow                     | "How am I doing right now?"       |
+| Net balance       | E(t)                 | Accumulated reserves                 | Your total "capital" so far       |
+| Solidified        | E_{\text{solid}}     | Locked assets                        | Experience, knowledge — hard to access when drained |
+| Active            | E_{\text{active}}    | Usable energy                        | Current attention & vitality      |
+| Survival criterion| \frac{E_{\text{active}}}{\tau} + \eta \cdot e(t) \geq 0 | Can you continue?                    | "Can I keep going?"               |
+
+
 
 **Core equation:**  
 Ω^{(M)} = Φ(L)  
-Every existent is the running output of its protocols.
+Every existent is the output of its running protocols.
 
----
+
 
 ## The Recursive Engine
 
-Existence deepens through a universal four-phase cycle:
+Existence deepens through a universal cycle:
 
 **Trial → Capture → Solidify → Generate**
 
@@ -45,30 +64,26 @@ Existence deepens through a universal four-phase cycle:
 3. **Solidify** — Lock it permanently if energy & time thresholds are met  
 4. **Generate** — New protocol produces outputs and enables further recursion  
 
-This cycle runs at every scale: particles → atoms → stars → life → minds → civilizations.
+This cycle operates at every scale: particles → atoms → stars → life → minds → civilizations.
 
----
 
 ## Cosmic Genesis in One Page
 
 | Phase              | What Happens                              | GET Explanation                                                                 |
 |--------------------|-------------------------------------------|---------------------------------------------------------------------------------|
-| Before time        | L_0 running                               | Base recursive protocol; statistical steady state = quantum vacuum              |
-| Trigger            | Fluctuations cross threshold              | E(t) curve intersects ε_th^{(1)} for Δt ≥ N_min^{(1)}                           |
+| Before time        | L_0 running                               | Base recursive protocol; steady state = quantum vacuum                          |
+| Trigger            | Fluctuations cross threshold              | E(t) intersects ε_th^{(1)} for Δt ≥ N_min^{(1)}                                 |
 | Inflation          | Exponential expansion                     | First successful activations break symmetry, trigger rapid growth               |
 | Freeze             | Channel closes at T_0 + τ_inflation       | All ongoing processes permanently freeze                                        |
-| Three categories   | Born in that instant                      | • A: Ordinary matter (completed solidification) 
-• B: Dark matter (interrupted, frozen) 
-• C: Dark energy (never reached threshold, uniform background) |
-| Structure          | Recursive deepening                       | Matter aggregates, hits new thresholds, cycles again — atoms → stars → life → consciousness |
+| Three categories   | Born in that instant                      | • A: Ordinary matter (completed) <br>• B: Dark matter (interrupted, frozen) <br>• C: Dark energy (never reached, uniform) |
+| Structure          | Recursive deepening                       | Matter aggregates, hits new thresholds — atoms → stars → life → consciousness   |
 
----
 
 ## Why It's Not "Just Another Theory"
 
-Most theories add entities or parameters to fit data. GET deduces everything from what you already cannot deny.
+Most theories add entities or parameters to fit data. GET deduces everything from what you cannot deny.
 
-**Four Metrological Standards**
+**Four Standards**
 
 | Standard                  | Question Asked                          | GET's Answer                                                                 |
 |---------------------------|-----------------------------------------|------------------------------------------------------------------------------|
@@ -77,110 +92,63 @@ Most theories add entities or parameters to fit data. GET deduces everything fro
 | S3 Deductive Transparency | Is the logic fully traceable?           | Linear chain: Bedrocks → Definitions → Axioms → Corollaries.                |
 | S4 Strong Falsifiability  | Clear, binary failure conditions?       | Dark matter non-gravitational interaction = immediate falsification.        |
 
----
-
-## What GET Predicts (Decisive Tests)
-
-**Tier 1 — Foundational Physics**
-
-| Prediction                                      | Falsification Condition                          | Key Experiments (2025–2035)     |
-|-------------------------------------------------|--------------------------------------------------|----------------------------------|
-| Dark matter zero non-gravitational interaction  | Any detection above background                   | XENONnT/LZ, DARWIN              |
-| No graviton                                     | Detection of quantum gravity effects             | Desktop experiments, LISA       |
-| Dark energy w ≡ -1 exactly                      | w ≠ -1 at 5σ                                     | DESI, Euclid, Roman             |
-| Matter:dark matter:dark energy ratio fixed by \bar{η} ≈ 0.1045 | Ξ ≠ 8.57 ± 0.1                                   | CMB-S4, 30m-class telescopes    |
-
-**Tier 2 — Cross-Scale Implications**
-
-- Maximum protocol depth D_max ≈ 12–13 (energy-limited)  
-- Energy investment for depth increase grows exponentially: E_invest^{(d)} ∝ exp(0.7d)  
-- Baryon-photon ratio η strictly constant  
-- Technology diffusion follows protocol compatibility κ(L_new, L_social)
-
----
-
-## See It Everywhere
-
-| System              | "Alive" (≥ 0)                        | "Dead" (< 0)                       | Same Equation                     |
-|---------------------|--------------------------------------|------------------------------------|-----------------------------------|
-| Hydrogen atom       | Ground state stable                  | Ionized                            | Survival criterion                |
-| Star                | Core fusion e(t) > 0                 | Fuel exhausted, collapse           | same                              |
-| You                 | "I can go on"                        | Exhausted, burnout                 | same                              |
-| Startup             | Cash flow positive                   | Bankruptcy                         | same                              |
-| Relationship        | Emotional energy inflow              | Breakdown                          | same                              |
-| Scientific theory   | Active researchers, new results      | Paradigm stagnation                | same                              |
-| City                | Investment inflow, growth            | Population loss, decay             | same                              |
-| AI / Consciousness  | Self-referential recursion active    | Static / dormant                   | same                              |
-
-They all speak the same language — just different dialects.
-
----
-
-## The Falsification Compact
-
-GET places itself under explicit judgment. The theory fails if:
-
+**The Falsification Compact**  
+GET fails if:  
 1. Any of the five empirical foundations is disproven  
-2. A stable existent is found that cannot be described by Ω^{(M)} = Φ(L)  
-3. Dark matter is confirmed to have any non-gravitational interaction  
-4. Dark energy is confirmed to have w ≠ -1  
-5. Superluminal causal information transfer is confirmed  
+2. A stable existent cannot be described by Ω^{(M)} = Φ(L)  
+3. Dark matter shows any non-gravitational interaction  
+4. Dark energy has w ≠ -1  
+5. Superluminal causal transfer is confirmed  
 
 No retreat. No rescue. Just judgment.
 
----
 
 ## Repository Structure
-
+```
 GET/
-├── README.md
-├── theory/
-│   ├── foundations.md      # Five empirical bedrocks
-│   ├── definitions.md      # Complete definition system
-│   ├── axioms.md           # Core axioms Ω—XIII
-│   └── corollaries.md      # All 22 corollaries
-├── falsification/
-│   ├── tier1_predictions.md   # Decisive physics tests
-│   ├── tier2_crossscale.md    # Cross-scale derivations
-│   └── ultimate_criterion.md  # Corollary 22
-├── SETs/                   # Domain translations
+├── README.md                 # ← You are here
+├── LICENSE                   # CC BY 4.0 (theory) + Voyaging IP reserved
+├── theory/                   # Pure theory core
+│   ├── foundations.md        # 5 bedrocks
+│   ├── definitions.md        # Full definitions (A–D)
+│   ├── axioms.md             # Ω–XIII
+│   └── corollaries.md        # 22 corollaries
+├── falsification/            # How to kill GET
+│   ├── tier1_predictions.md
+│   ├── tier2_crossscale.md
+│   └── ultimate_criterion.md
+├── SETs/                     # Map GET to your domain
 │   ├── physics.md
 │   ├── biology.md
 │   ├── economics.md
 │   ├── ecology.md
-│   └── cognitive_science.md
-├── tools/                  # GET analysis toolkit (coming)
-│   └── README.md
+│   ├── cognitive_science.md
+│   └── AGI.md                # AI alignment & consciousness
+├── tools/                    # Software prototypes (energy tracker, window detector...)
+│   ├── README.md
+│   └── examples/             # startup, relationship, AI models...
 └── papers/
-    └── 2025_get_full.pdf   # Full theory paper
----
+    └── 2025_get_full.pdf     # The full paper
+```
+
 
 ## Getting Started
 
-New here? Start with theory/foundations.md — the five bedrocks are not assumptions, they are what you already cannot deny.
-
-Want the core logic? Follow the linear chain:  
-Bedrocks → Definitions → Axioms → Corollaries
-
-Want to apply GET? Pick your domain in SETs/ and map your system to E_solid, E_active, e(t), τ_solid, τ_active, η.
-
-Want to falsify GET? Go to falsification/ and pick any prediction. Find a counterexample.
-
----
+- New? Start with theory/foundations.md — 5 things you cannot deny  
+- Logic? Follow: Bedrocks → Definitions → Axioms → Corollaries  
+- Apply? Pick domain in SETs/ and map your system  
+- Falsify? Go to falsification/ and hunt counterexamples  
+- Origin? Voyaging universe (fiction) is where this grammar was first seen  
 
 ## Reading Guide
 
-The theory comes with its own verification protocol:
-
-1. **The Four Questions** (foundations.md): Answer them honestly. If you can deny any, stop.  
-2. **Concept Mapping** (definitions.md): Each symbol maps to something you already live.  
-3. **Deductive Chain** (axioms → corollaries): No branches — each step is the only possible next.  
-4. **Cross-Scale Recognition** (SETs/): Hear the same sentence in different dialects.  
-5. **Falsification Check** (falsification/): Designed to fail cleanly if wrong.
-
----
+1. Four Questions — foundations.md  
+2. Concept Mapping — definitions.md  
+3. Deductive Chain — axioms → corollaries  
+4. Cross-Scale — SETs/  
+5. Falsification — falsification/  
 
 You are not learning a new language.  
 You are recognizing the one you have always spoken.
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+愿我们的共鸣，比光传得更远。
