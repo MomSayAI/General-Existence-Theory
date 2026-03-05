@@ -10,10 +10,6 @@ Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing 
 [![License: Code (MIT)](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
 [![License: Voyaging IP](https://img.shields.io/badge/Voyaging-All%20Rights%20Reserved-blueviolet)](LICENSE)
 
-**Protocol recursion: trial → capture → solidify → generate.**  
-Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
----
-
 
 
 ## A Note Before You Begin
