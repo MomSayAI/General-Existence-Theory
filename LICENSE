@@ -1,40 +1,87 @@
-M# License for Generalized Existence Theory (GET) Repository
+# License for Generalized Existence Theory (GET) Repository
 
-This repository contains two distinct categories of content with different licensing terms:
+This repository contains three distinct categories of content with different licensing terms:
+
+---
 
 ## 1. GET Theory and Related Materials (CC BY 4.0)
-Applies to:
-- All files in /theory/, /falsification/, /SETs/, /tools/
-- The paper in /papers/2025_get_full.pdf
-- Any explanatory text, definitions, axioms, corollaries, predictions, and code in this repository that describe or implement Generalized Existence Theory (GET)
+
+**Applies to:**
+- All files in `/theory/`, `/falsification/`, `/SETs/`
+- The paper in `/papers/2025_get_full.pdf`
+- Any explanatory text, definitions, axioms, corollaries, predictions, and documentation that describe Generalized Existence Theory (GET)
 
 **License**: Creative Commons Attribution 4.0 International (CC BY 4.0)  
 https://creativecommons.org/licenses/by/4.0/
 
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+**You are free to:**
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material for any purpose, even commercially
 
-Under the following terms:
-- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-## 2. Voyaging Universe Intellectual Property (All Rights Reserved)
-Applies to:
-- All narrative content, characters, worldbuilding elements, storylines, settings, and derivative creative works related to the "Voyaging" science fiction universe
-- Any text, images, or files explicitly marked as part of the Voyaging universe (including in /voyaging/ if created)
-
-**Copyright**: © 2025 YUQI. All rights reserved.
-
-Permission is granted for:
-- Non-commercial personal reading, discussion, and fan fiction (with clear attribution to YUQI and link to this repository)
-
-Any other use (commercial publication, adaptation, merchandise, large-scale derivative works) requires explicit written permission from YUQI (contact: liangyuqi@exist.chat).
-
-For inquiries, collaborations, or licensing requests: exist.chat
+**Under the following terms:**
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 ---
 
-This dual-licensing structure reflects the origin of GET: a theoretical framework that emerged during the creation of a fictional universe. The theory is shared openly; the story remains protected IP.
+## 2. GET Software Tools (MIT License)
+
+**Applies to:**
+- All files in `/tools/`
+- Any source code, scripts, or software implementations of GET algorithms, regardless of location in the repository
+
+**License**: MIT License
+
+Copyright (c) 2025 YUQI
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+## 3. Voyaging Universe Intellectual Property (All Rights Reserved)
+
+**Applies to:**
+- All narrative content, characters, worldbuilding elements, storylines, settings, and derivative creative works related to the "Voyaging" science fiction universe
+- Any text, images, or files explicitly marked as part of the Voyaging universe (including in `/voyaging/` if created)
+- Any content that is primarily creative/narrative rather than theoretical/explanatory
+
+**Copyright**: © 2025 YUQI. All rights reserved.
+
+**Permission is granted for:**
+- Non-commercial personal reading, discussion, and fan fiction (with clear attribution to YUQI and a link to this repository)
+
+**All other uses require explicit written permission:**
+- Commercial publication in any form
+- Adaptation into other media (film, games, etc.)
+- Merchandise or derivative products
+- Large-scale derivative works beyond personal fan creation
+
+For inquiries, collaborations, or licensing requests: **liangyuqi@exist.chat** | **[exist.chat](https://exist.chat)**
+
+---
+
+## Summary
+
+| Category | Applies To | License |
+|----------|------------|---------|
+| **GET Theory** | `/theory/`, `/falsification/`, `/SETs/`, paper | CC BY 4.0 |
+| **GET Software** | `/tools/`, code implementations | MIT |
+| **Voyaging Universe** | `/voyaging/`, narrative content | All Rights Reserved (with fan fiction allowance) |
+
+---
+
+## Origin Note
+
+This dual-licensing structure reflects the origin of GET: a theoretical framework that emerged during the creation of a fictional universe. The theory is shared openly for scientific discourse; the story remains protected IP.
+
+*The theory is real. The universe it helped create is fiction. Both belong to the same journey.*
+
+---
 
 Last updated: March 2026
+
+可以直接放进仓库根目录作为 `LICENSE` 文件。
