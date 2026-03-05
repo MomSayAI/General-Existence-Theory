@@ -6,8 +6,9 @@ Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing 
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
 [![GitHub](https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github)](https://github.com/MomSayAI)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![License: Voyaging IP](https://img.shields.io/badge/Info-Voyaging%20Universe-blueviolet)](LICENSE)
+[![License: Theory (CC BY 4.0)](https://img.shields.io/badge/Theory-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: Code (MIT)](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
+[![License: Voyaging IP](https://img.shields.io/badge/Voyaging-All%20Rights%20Reserved-blueviolet)](LICENSE)
 
 **Protocol recursion: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
