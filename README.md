@@ -1,10 +1,13 @@
-# GET: The Grammar of Existence  
-**Difference Recursion**
+# GET: The Grammar of Existence
 
-[<image-card alt="Website" src="https://img.shields.io/badge/Website-exist.chat-important" ></image-card>](https://exist.chat)  
-[<image-card alt="GitHub" src="https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github" ></image-card>](https://github.com/MomSayAI)  
-[<image-card alt="arXiv" src="https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph" ></image-card>](https://arxiv.org/abs/XXXX.XXXXX)  
-[<image-card alt="License" src="https://img.shields.io/badge/License-CC%20BY%204.0%20(theory" ></image-card>%20%7C%20Voyaging%20IP-blueviolet)](LICENSE)
+**Protocol recursion: trial → capture → solidify → generate.**  
+Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
+
+[![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
+[![GitHub](https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github)](https://github.com/MomSayAI)
+[![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: Voyaging IP](https://img.shields.io/badge/Info-Voyaging%20Universe-blueviolet)](LICENSE)
 
 **Protocol recursion: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
