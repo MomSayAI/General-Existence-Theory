@@ -132,7 +132,27 @@ No retreat. No rescue. Just judgment.
 
 ## Repository Structure
 
-GET/ ├── README.md # This file ├── theory/ │ ├── foundations.md # Five empirical bedrocks │ ├── definitions.md # Complete definition system │ ├── axioms.md # Core axioms Ω—XIII │ └── corollaries.md # All 22 corollaries ├── falsification/ │ ├── tier1_predictions.md # Decisive physics tests │ ├── tier2_crossscale.md # Cross-scale derivations │ └── ultimate_criterion.md # Corollary 22 ├── SETs/ # Domain translations │ ├── physics.md │ ├── biology.md │ ├── economics.md │ ├── ecology.md │ └── cognitive_science.md ├── tools/ # GET analysis toolkit (coming soon) │ └── README.md └── papers/ └── 2025_get_full.pdf # Full theory paper
+GET/
+├── README.md
+├── theory/
+│   ├── foundations.md      # Five empirical bedrocks
+│   ├── definitions.md      # Complete definition system
+│   ├── axioms.md           # Core axioms Ω—XIII
+│   └── corollaries.md      # All 22 corollaries
+├── falsification/
+│   ├── tier1_predictions.md   # Decisive physics tests
+│   ├── tier2_crossscale.md    # Cross-scale derivations
+│   └── ultimate_criterion.md  # Corollary 22
+├── SETs/                   # Domain translations
+│   ├── physics.md
+│   ├── biology.md
+│   ├── economics.md
+│   ├── ecology.md
+│   └── cognitive_science.md
+├── tools/                  # GET analysis toolkit (coming)
+│   └── README.md
+└── papers/
+    └── 2025_get_full.pdf   # Full theory paper
 ---
 
 ## Getting Started
