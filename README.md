@@ -13,6 +13,7 @@ Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing 
 [![License: Theory (CC BY 4.0)](https://img.shields.io/badge/Theory-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![License: Code (MIT)](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
 [![License: Voyaging IP](https://img.shields.io/badge/Voyaging-All%20Rights%20Reserved-blueviolet)](LICENSE)
+<image-card alt="ORCID QR Code" src="https://raw.githubusercontent.com/MomSayAI/General-Existence-Theory/main/assets/orcid-qr.png" ></image-card>
 
 **GET: A zero-parameter unified syntax of existence derived from 5 empirical pillars.**  
 Recognizing the grammar you have always spoken — from quantum vacuum to civilization.  
