@@ -92,15 +92,19 @@ Most theories add entities or parameters to fit data. GET deduces everything fro
 | S3 Deductive Transparency | Is the logic fully traceable?           | Linear chain: Bedrocks → Definitions → Axioms → Corollaries.                |
 | S4 Strong Falsifiability  | Clear, binary failure conditions?       | Dark matter non-gravitational interaction = immediate falsification.        |
 
-**The Falsification Compact**  
-GET fails if:  
+## The Falsification Compact
+
+GET is falsified if any of the following is rigorously confirmed:
+
 1. Any of the five empirical foundations is disproven  
-2. A stable existent cannot be described by Ω^{(M)} = Φ(L)  
-3. Dark matter shows any non-gravitational interaction  
-4. Dark energy has w ≠ -1  
-5. Superluminal causal transfer is confirmed  
+2. A stable existent cannot be fully described by Ω^(M) = Φ(L) or violates the survival criterion  
+3. Dark matter exhibits any non-gravitational interaction (cross-section > 0)  
+4. Dark energy's equation of state deviates from w ≡ -1 (e.g., 5σ evidence)  
+5. Superluminal causal energy/information transfer is confirmed  
 
 No retreat. No rescue. Just judgment.
+
+GET invites anyone possessing basic logical ability and modern scientific common sense to attempt violent falsification — using AGI or other means, if deemed necessary. Corollary 22 provides the explicit ultimate conditions. To date, more than 3000 independent attempts (including leading global AGIs) have failed to strike any single condition.
 
 
 ## Repository Structure
