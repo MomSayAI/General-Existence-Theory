@@ -10,6 +10,9 @@ Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing 
 [![License: Code (MIT)](https://img.shields.io/badge/Code-MIT-yellow.svg)](LICENSE)
 [![License: Voyaging IP](https://img.shields.io/badge/Voyaging-All%20Rights%20Reserved-blueviolet)](LICENSE)
 
+**GET: A zero-parameter unified syntax of existence derived from 5 empirical pillars.**  
+Recognizing the grammar you have always spoken — from quantum vacuum to civilization.  
+Endorsement in progress for arXiv physics.gen-ph | Violent falsification attempts: >3000 (zero hits)
 
 
 ## A Note Before You Begin
