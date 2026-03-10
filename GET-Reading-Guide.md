@@ -1,4 +1,4 @@
-# GET Reading Guide (Complete)
+# GET Reading Guide
 
 **You are not learning — you are recognizing.**
 
