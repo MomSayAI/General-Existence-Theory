@@ -7,6 +7,9 @@ Independent Researcher · Founder of GET
 **Four-Phase Protocol Hierarchical Recursion: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
 
+## 🧭 Start Here
+New to GET? Read the **[GET Reading Guide](GET-Reading-Guide.md)** first — not a summary, but the entrance.
+
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
 [![GitHub](https://img.shields.io/badge/GitHub-MomSayAI-181717?logo=github)](https://github.com/MomSayAI)
 [![arXiv](https://img.shields.io/badge/arXiv-XXXX.XXXXX-physics%3Eph)](https://arxiv.org/abs/XXXX.XXXXX)
