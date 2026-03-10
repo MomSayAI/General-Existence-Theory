@@ -1,10 +1,10 @@
-# GET: The Grammar of Existence
+# GET: The Unique Syntax of All That Can Be Said
 
 YUQI LION  
 ORCID: https://orcid.org/0009-0009-7849-8105  
 Independent Researcher · Founder of GET
 
-**Protocol recursion: trial → capture → solidify → generate.**  
+**Four-Phase Protocol Hierarchical Recursion: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
 
 [![Website](https://img.shields.io/badge/Website-exist.chat-important)](https://exist.chat)
