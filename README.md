@@ -65,6 +65,20 @@ Core insight: "Existence" is the running of recursive protocols. Starting from f
 Ω^{(M)} = Φ(L)  
 Every existent is the output of its running protocols.
 
+- **Ω^{(M)}**: The complete state of any existent form M (what we observe as "reality" at any moment — particles, stars, life, consciousness, civilizations).
+- **Φ**: The generative function — given a set of protocols L, it outputs the full evolutionary trajectory of M.
+- **L**: The unique dynamical ontology — the running protocols themselves (rules, habits, laws, DNA, institutions, cognitive patterns).
+
+All variables in GET are **endogenous** — they emerge directly from the recursive execution of D (the difference engine):
+
+Ω_𝒮^{(M)}(t) = Φ_𝒮(L, E_solid(t), E_active(t), e(t), t)
+
+Where:
+- E_solid(t) — solidified structural assets (locked energy, long-term "body")
+- E_active(t) — active disposable reserves (cash flow, ATP, attention, cash)
+- e(t) — instantaneous net flow (income - expenditure, ATP production - consumption)
+- t — internal time (step count of recursive executions)
+- 𝒮 — species-specific signature (core protocol fingerprint C_𝒮)
 
 
 ## The Recursive Engine
