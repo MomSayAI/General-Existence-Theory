@@ -1,8 +1,15 @@
-# GET: The Unique Syntax of All That Can Be Said
+# GET: Four-Phase Protocol Recursive Hierarchy — The Unique Syntax of All That Can Be Said
+From Vacuum Fluctuations to Intelligent Civilizations: A Zero-Ad-Hoc, Cross-Scale Inevitable Unification
 
 YUQI LION  
+Independent Researcher | Founder of Generalized Existence Theory (GET/SETs)  
+MomSayAI | GET Lab  
+Website: https://exist.chat  
+Email: liangyuqi@exist.chat  
+GitHub: Generalized-Existence-Theory  
+
+December 2025  
 ORCID: https://orcid.org/0009-0009-7849-8105  
-Independent Researcher · Founder of GET
 
 **Four-Phase Protocol Hierarchical Recursion: trial → capture → solidify → generate.**  
 Quantum fluctuations crossing Heisenberg's threshold ignite inflation, freezing once and for all into ordinary matter, dark matter, and dark energy — the unified grammar of why anything exists at all.
