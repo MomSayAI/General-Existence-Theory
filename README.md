@@ -144,30 +144,57 @@ GET invites anyone possessing basic logical ability and modern scientific common
 
 ## Repository Structure
 ```
-GET/
-├── README.md                 # ← You are here
-├── LICENSE                   # CC BY 4.0 (theory) + Voyaging IP reserved
-├── theory/                   # Pure theory core
-│   ├── foundations.md        # 5 bedrocks
-│   ├── definitions.md        # Full definitions (A–D)
-│   ├── axioms.md             # Ω–XIII
-│   └── corollaries.md        # 22 corollaries
-├── falsification/            # How to kill GET
-│   ├── tier1_predictions.md
-│   ├── tier2_crossscale.md
-│   └── ultimate_criterion.md
-├── SETs/                     # Map GET to your domain
-│   ├── physics.md
-│   ├── biology.md
-│   ├── economics.md
-│   ├── ecology.md
-│   ├── cognitive_science.md
-│   └── AGI.md                # AI alignment & consciousness
-├── tools/                    # Software prototypes (energy tracker, window detector...)
-│   ├── README.md
-│   └── examples/             # startup, relationship, AI models...
-└── papers/
-    └── 2025_get_full.pdf     # The full paper
+Generalized-Existence-Theory/
+├── README.md                   
+├── LICENSE 
+├── .gitignore                    
+│
+├── docs/                         # 论文主体（Markdown 或 LaTeX 源码）
+│   ├── en/                       # 英文版（你正在翻译的版本）
+│   │   ├── abstract.md
+│   │   ├── introduction.md
+│   │   ├── methodology.md
+│   │   ├── theory-construction.md           # 第3章
+│   │   │   ├── 3.1_cornerstones.md
+│   │   │   ├── 3.2_principles.md
+│   │   │   ├── 3.3_definitions.md
+│   │   │   ├── 3.4_axioms.md
+│   │   │   └── 3.5_corollaries.md
+│   │   ├── falsification.md                 # 第4章 可证伪体系
+│   │   ├── cross-scale-cases.md             # 第5章 跨尺度案例
+│   │   ├── applications.md                  # 第6章 应用框架
+│   │   ├── philosophy.md                    # 第7章 哲学意蕴
+│   │   └── appendices/                      # 所有附录
+│   │       ├── appendix-a_equations.md
+│   │       ├── appendix-b_paradigm-comparison.md
+│   │       ├── appendix-c_consciousness.md
+│   │       ├── appendix-d_unsolved-mysteries.md
+│   │       └── appendix-e_reading-guide.md
+│   │
+│   └── zh/                       # 中文原版（已有的完整文本）
+│       ├── 摘要.md
+│       ├── 引言.md
+│       └── ... （类似上面结构，按章节拆分）
+│
+├── assets/                       # 图片、图表、示意图
+│   ├── diagrams/                 # 几何筛选示意图、三大范畴冻结图、四相循环流程图等
+│   │   ├── geometric-screening.png
+│   │   ├── three-categories-freezeout.png
+│   │   └── four-phase-cycle-flowchart.png
+│   └── tables/                   # 各种表格的图片或源文件（如果用 LaTeX 生成）
+│
+├── get-tools/                    # 开源工具包（未来扩展）
+│   ├── prototypes/               # 早期原型代码（Python / JS）
+│   │   ├── sets_builder.py       # SETs 映射构建器
+│   │   ├── existence_degree_calculator.py
+│   │   └── geometric_screening_analyzer.py
+│   ├── docs/                     # 工具使用说明
+│   └── requirements.txt
+│
+├── references/                   # 参考文献
+    ├── main.bib                  # BibTeX 文件
+    └── cited_works.md            # 按字母排序的参考文献列表（方便读者）
+
 ```
 
 
