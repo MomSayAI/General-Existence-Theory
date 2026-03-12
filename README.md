@@ -32,6 +32,17 @@ Start with the **[GET Reading Guide](https://github.com/MomSayAI/Generalized-Exi
 Recognizing the grammar you have always spoken — from quantum vacuum to civilization.  
 Endorsement in progress for arXiv physics.gen-ph | Violent falsification attempts: >3000 (zero hits)
 
+A Note on arXiv Endorsement
+
+I am an independent researcher (no institutional affiliation) seeking to submit this work to arXiv’s physics.gen-ph section. To comply with arXiv’s policy for first-time submitters, I require an endorsement from an author who is already registered to endorse in this category.
+
+If you have the authority to endorse and find this work worthy of entering the public domain for scrutiny, your assistance would be invaluable. To endorse, please visit: https://arxiv.org/auth/endorse?x=PMTQYD  
+(or go to http://arxiv.org/auth/endorse.php and enter PMTQYD)
+
+
+
+Thank you for considering it.
+
 
 ## A Note Before You Begin
 
