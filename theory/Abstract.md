@@ -1,16 +1,3 @@
-### Generalized Existence Theory (GET): Four-Phase Protocol Recursive Hierarchy — The Sole Grammar of Sayable Existence
-
-From Vacuum Fluctuations to Intelligent Civilizations: A Zero-Ad-Hoc, Cross-Scale Inevitable Unification
-
-YUQI LION  
-Independent Researcher | Founder of Generalized Existence Theory (GET/SETs)  
-MomSayAI | GET Lab  
-Website: https://exist.chat  
-Email: liangyuqi@exist.chat  
-GitHub: Generalized-Existence-Theory  
-
-December 2025
-
 ### Abstract
 
 This paper proposes Generalized Existence Theory (GET), aiming to establish a unified existence grammar spanning from vacuum fluctuations to intelligent civilizations. GET strictly limits its inputs to five empirical cornerstones:
